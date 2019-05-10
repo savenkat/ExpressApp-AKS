@@ -2,7 +2,7 @@ container:
   endpoint: savenkatacr
   image: "savenkatacrsin.azurecr.io/hello-world"
 
-pool: "sandeeppool"
+pool: "desattir"
 
 steps: 
   - script: "echo hello"

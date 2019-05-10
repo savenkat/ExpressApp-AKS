@@ -2,6 +2,9 @@ container:
   endpoint: savenkatacr
   image: "savenkatacrsin.azurecr.io/hello-world"
 
+variables:
+  System.Debug: true
+
 pool: "desattir"
 
 steps: 
